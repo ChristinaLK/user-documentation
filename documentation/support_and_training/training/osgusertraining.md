@@ -12,8 +12,9 @@ All User Training sessions are offered on **Tuesdays from 2:30-4pm ET (11:30am -
 
 <font size="15">[Register Here](https://osgfacilitation.setmore.com/#classes)</font>
 
-## Fall 2024 Training Schedule
+## Spring 2025 Schedule Coming Soon
 
+<!--
 <table>
   <tr>
       <td>Tuesday, September 17</td>
@@ -56,6 +57,8 @@ For a calendar version of these events see:
 
 * [Google Calendar](https://calendar.google.com/calendar/embed?src=c_f786e9455a56e4b1ea7aca0d15c88178fd0e309e92c3cf4767c268ea3e2fc884%40group.calendar.google.com&ctz=America%2FChicago)
 * [Download and add to your calendar app](https://calendar.google.com/calendar/ical/c_f786e9455a56e4b1ea7aca0d15c88178fd0e309e92c3cf4767c268ea3e2fc884%40group.calendar.google.com/public/basic.ics)
+
+-->
 
 ## Materials
 

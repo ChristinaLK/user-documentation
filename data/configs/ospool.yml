@@ -18,8 +18,6 @@ nav:
     - Education And Training:
       - "Monthly OSG User Training": support_and_training/training/osgusertraining.md
       - "Past Training Materials": support_and_training/training/materials.md
-      - "Annual, Week-Long OSG User School ": support_and_training/training/osg-user-school.md
-      - "Other Past Training Events ": support_and_training/training/previous-training-events.md
       - "OSPool Resources for Teaching & Education": support_and_training/training/ospool_for_education.md
   - Submit High Throughput Computing (HTC) Workloads:
     - How to Use the OSPool:
